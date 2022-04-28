@@ -155,22 +155,22 @@
     }
 
     30% {
-        left: calc(100% - 30px);
+        left: calc(100% - 50px);
         top: -10px;
     }
 
     45% {
-        left: calc(100% - 30px);
+        left: calc(100% - 50px);
         top: 100%;
     }
 
     75% {
-        left: -30px;
+        left: -10px;
         top: 100%;
     }
 
     90% {
-        left: -30px;
+        left: -10px;
         top:-10px;
     }
 }
@@ -188,22 +188,22 @@
     }
 
     30% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: -10px;
     }
 
     45% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: 100%;
     }
 
     75% {
-        right: -30px;
+        right: -10px;
         bottom: 100%;
     }
 
     90% {
-        right: -30px;
+        right: -10px;
         bottom:-10px;
     }
 }
